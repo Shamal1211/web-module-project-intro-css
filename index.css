@@ -14,48 +14,74 @@ font-family: 'Roboto Mono', monospace;
         font-family: 'Chelsea Market', cursive;
         font-size: 300%;
         padding:2%;
+        
       
     }
 .YoseMountain {  
    
     width: 20%;
     border-radius: 50%;
+    margin: auto;
 
 }
 
 .Plan{
     background-color: #FF764E;
+    
 
     
 }
 .Learn{
     background-color: #5ED3EB;
+    
 }
 .Get{
     background-color: #FFCD69;
+
 }
 
 button a{
     color: white;
     text-decoration: none;
     margin: 10%;
-
+    
 }
 button{ 
     border: none;
     padding: 15px;
     border-radius: 15%;
     margin: 10%;
+    
 
 }
 nav{
     padding: 100px;
+   
 }
 
 .campfire img{
-    width: 50px;
-    margin: 0 50%;
-    height: 50px;
+    width: 50%;
+    margin: auto  25%  50%;
+    height: 500px;
+  
+    max-width: 100%;
     
 
+}
+
+.YoseHeaderText {
+   
+}
+
+.Truck{
+    height: 25%;
+    width: 25%;
+    
+    max-width: 100%;
+    margin: auto;
+}
+
+.description{
+  
+    background-color: peachpuff;
 }
